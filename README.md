@@ -2,4 +2,4 @@
 
 ![](https://komarev.com/ghpvc/?username=WaGi-Coding)
 
-![Header](./giantblackberries.png)
+![Header](./g2.png)
